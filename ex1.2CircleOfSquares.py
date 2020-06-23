@@ -1,3 +1,5 @@
+# Write and run a function that draws 60 squares, turning right 5 degrees after each square. Use a loop!
+
 from turtle import *
 shape('turtle')
 speed(0)
