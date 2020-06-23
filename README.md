@@ -4,6 +4,8 @@ Different questions from the book "Math Adventures With Python" by Peter Farrell
 ## Pyhton Installation
 Download python from https://www.python.org/downloads/ and install latest version of python 3.
 
+![Python Website] (https://user-images.githubusercontent.com/32386713/85448750-6f09b480-b5b0-11ea-8ad8-fae92dcdd335.png)
+
 ## IDLE 3
 Search your system for "IDLE", it's the python IDE which is used to write the pyhton code.
 Open IDLE and a screen called "shell" will appear which is used for the interactive coding environment. Clicl File -> New File and a new file will appear which is used for writing the python code.
