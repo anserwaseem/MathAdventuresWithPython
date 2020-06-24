@@ -1,3 +1,5 @@
+# Graph and find the roots of a quadratic function.
+
 from math import sqrt
 #set the range of x-values 
 xmin = -10
